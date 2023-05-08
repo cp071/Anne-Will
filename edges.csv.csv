@@ -1,0 +1,239 @@
+from,to,relationship
+Baerbock ,Dunz,1
+Baerbock ,Habeck ,2
+Baerbock ,Kiesewetter,1
+Baerbock ,Klingbeil,1
+Baerbock ,Lambsdorff,1
+Baerbock ,Levits,1
+Baerbock ,Lindner,1
+Baerbock ,Major,1
+Baerbock ,L. Melnyk,1
+Baerbock ,Petrowskaja,1
+Baerbock ,Ramms,1
+Baerbock ,Röttgen,1
+Baerbock ,Schlögel,1
+Baerbock ,Stelzenmüller,1
+Baerbock ,Timmermans,1
+Baerbock ,von der Leyen,1
+Baerbock ,Wagenknecht,1
+Baerbock ,Lambrecht,1
+Baerbock ,Babst,1
+Baerbock ,Heusgen,1
+Baerbock ,Weisband,1
+Baerbock ,Scholz,1
+Baerbock ,A. Melnyk,1
+Dunz,Habeck ,1
+Dunz,Kiesewetter,1
+Dunz,Klingbeil,1
+Dunz,Lambsdorff,1
+Dunz,Levits,1
+Dunz,Lindner,1
+Dunz,Major,1
+Dunz,L. Melnyk,1
+Dunz,Petrowskaja,1
+Dunz,Ramms,1
+Dunz,Röttgen,1
+Dunz,Schlögel,1
+Dunz,Stelzenmüller,1
+Dunz,Timmermans,1
+Dunz,von der Leyen,1
+Dunz,Wagenknecht,1
+Dunz,Lambrecht,1
+Dunz,Babst,1
+Dunz,Heusgen,1
+Dunz,Weisband,1
+Dunz,Scholz,1
+Dunz,A. Melnyk,1
+Habeck ,Kiesewetter,1
+Habeck ,Klingbeil,1
+Habeck ,Lambsdorff,1
+Habeck ,Levits,1
+Habeck ,Lindner,1
+Habeck ,Major,1
+Habeck ,L. Melnyk,1
+Habeck ,Petrowskaja,1
+Habeck ,Ramms,1
+Habeck ,Röttgen,1
+Habeck ,Schlögel,1
+Habeck ,Stelzenmüller,1
+Habeck ,Timmermans,1
+Habeck ,von der Leyen,1
+Habeck ,Wagenknecht,1
+Habeck ,Lambrecht,1
+Habeck ,Babst,1
+Habeck ,Heusgen,1
+Habeck ,Weisband,1
+Habeck ,Scholz,1
+Habeck ,A. Melnyk,1
+Kiesewetter,Klingbeil,1
+Kiesewetter,Lambsdorff,1
+Kiesewetter,Levits,1
+Kiesewetter,Lindner,1
+Kiesewetter,Major,1
+Kiesewetter,L. Melnyk,1
+Kiesewetter,Petrowskaja,1
+Kiesewetter,Ramms,1
+Kiesewetter,Röttgen,2
+Kiesewetter,Schlögel,1
+Kiesewetter,Stelzenmüller,1
+Kiesewetter,Timmermans,1
+Kiesewetter,von der Leyen,2
+Kiesewetter,Wagenknecht,1
+Kiesewetter,Lambrecht,1
+Kiesewetter,Babst,1
+Kiesewetter,Heusgen,1
+Kiesewetter,Weisband,1
+Kiesewetter,Scholz,1
+Kiesewetter,A. Melnyk,1
+Klingbeil,Lambsdorff,1
+Klingbeil,Levits,1
+Klingbeil,Lindner,1
+Klingbeil,Major,1
+Klingbeil,L. Melnyk,1
+Klingbeil,Petrowskaja,1
+Klingbeil,Ramms,1
+Klingbeil,Röttgen,1
+Klingbeil,Schlögel,1
+Klingbeil,Stelzenmüller,1
+Klingbeil,Timmermans,1
+Klingbeil,von der Leyen,1
+Klingbeil,Wagenknecht,1
+Klingbeil,Lambrecht,2
+Klingbeil,Babst,1
+Klingbeil,Heusgen,1
+Klingbeil,Weisband,1
+Klingbeil,Scholz,2
+Klingbeil,A. Melnyk,1
+Lambsdorff,Levits,1
+Lambsdorff,Lindner,2
+Lambsdorff,Major,1
+Lambsdorff,L. Melnyk,1
+Lambsdorff,Petrowskaja,1
+Lambsdorff,Ramms,1
+Lambsdorff,Röttgen,1
+Lambsdorff,Schlögel,1
+Lambsdorff,Stelzenmüller,1
+Lambsdorff,Timmermans,1
+Lambsdorff,von der Leyen,1
+Lambsdorff,Wagenknecht,1
+Lambsdorff,Lambrecht,1
+Lambsdorff,Babst,1
+Lambsdorff,Heusgen,1
+Lambsdorff,Weisband,1
+Lambsdorff,Scholz,1
+Lambsdorff,A. Melnyk,1
+Levits,Lindner,1
+Levits,Major,1
+Levits,L. Melnyk,1
+Levits,Petrowskaja,1
+Levits,Ramms,1
+Levits,Röttgen,1
+Levits,Schlögel,1
+Levits,Stelzenmüller,1
+Levits,Timmermans,1
+Levits,von der Leyen,1
+Levits,Wagenknecht,1
+Levits,Lambrecht,1
+Levits,Babst,1
+Levits,Heusgen,1
+Levits,Weisband,1
+Levits,Scholz,1
+Levits,A. Melnyk,1
+Lindner,Major,1
+Lindner,L. Melnyk,1
+Lindner,Petrowskaja,1
+Lindner,Ramms,1
+Lindner,Röttgen,1
+Lindner,Schlögel,1
+Lindner,Stelzenmüller,1
+Lindner,Timmermans,1
+Lindner,von der Leyen,1
+Lindner,Wagenknecht,1
+Lindner,Lambrecht,1
+Lindner,Babst,1
+Lindner,Heusgen,1
+Lindner,Weisband,1
+Lindner,Scholz,1
+Lindner,A. Melnyk,1
+L. Melnyk,Petrowskaja,1
+L. Melnyk,Ramms,1
+L. Melnyk,Röttgen,1
+L. Melnyk,Schlögel,1
+L. Melnyk,Stelzenmüller,1
+L. Melnyk,Timmermans,1
+L. Melnyk,von der Leyen,1
+L. Melnyk,Wagenknecht,1
+L. Melnyk,Lambrecht,1
+L. Melnyk,Babst,1
+L. Melnyk,Heusgen,1
+L. Melnyk,Weisband,1
+L. Melnyk,Scholz,1
+L. Melnyk,A. Melnyk,1
+Ramms,Röttgen,1
+Ramms,Schlögel,1
+Ramms,Stelzenmüller,1
+Ramms,Timmermans,1
+Ramms,von der Leyen,1
+Ramms,Wagenknecht,1
+Ramms,Lambrecht,1
+Ramms,Babst,1
+Ramms,Heusgen,1
+Ramms,Weisband,1
+Ramms,Scholz,1
+Ramms,A. Melnyk,1
+Röttgen,Schlögel,1
+Röttgen,Stelzenmüller,1
+Röttgen,Timmermans,1
+Röttgen,von der Leyen,1
+Röttgen,Wagenknecht,1
+Röttgen,Lambrecht,1
+Röttgen,Babst,1
+Röttgen,Heusgen,1
+Röttgen,Weisband,1
+Röttgen,Scholz,1
+Röttgen,A. Melnyk,1
+Stelzenmüller,Timmermans,1
+Stelzenmüller,von der Leyen,1
+Stelzenmüller,Wagenknecht,1
+Stelzenmüller,Lambrecht,1
+Stelzenmüller,Babst,1
+Stelzenmüller,Heusgen,1
+Stelzenmüller,Weisband,1
+Stelzenmüller,Scholz,1
+Stelzenmüller,A. Melnyk,1
+Timmermans,von der Leyen,1
+Timmermans,Wagenknecht,1
+Timmermans,Lambrecht,1
+Timmermans,Babst,1
+Timmermans,Heusgen,1
+Timmermans,Weisband,1
+Timmermans,Scholz,1
+Timmermans,A. Melnyk,1
+von der Leyen,Wagenknecht,1
+von der Leyen,Lambrecht,1
+von der Leyen,Babst,1
+von der Leyen,Heusgen,1
+von der Leyen,Weisband,1
+von der Leyen,Scholz,1
+von der Leyen,A. Melnyk,1
+Wagenknecht,Lambrecht,1
+Wagenknecht,Babst,1
+Wagenknecht,Heusgen,1
+Wagenknecht,Weisband,1
+Wagenknecht,Scholz,1
+Wagenknecht,A. Melnyk,1
+Lambrecht,Babst,1
+Lambrecht,Heusgen,1
+Lambrecht,Weisband,1
+Lambrecht,Scholz,2
+Lambrecht,A. Melnyk,1
+Babst,Heusgen,1
+Babst,Weisband,1
+Babst,Scholz,1
+Babst,A. Melnyk,1
+Heusgen,Weisband,1
+Heusgen,Scholz,1
+Heusgen,A. Melnyk,1
+Weisband,Scholz,1
+Weisband,A. Melnyk,1
+Scholz,A. Melnyk,1
